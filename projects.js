@@ -2,7 +2,7 @@
    CONFIGURATION DU SITE  —  c'est ici que tu modifies ton contenu
    ============================================================ */
 window.SITE = {
-  name: "Ton Nom",                       // affiché en grand sur l'accueil
+  name: "Cool Kids Propaganda",                       // affiché en grand sur l'accueil
   tagline: "direction artistique, photographie, productions éditoriales",
   email: "hello@tondomaine.fr",
   instagram: "https://instagram.com/tonpseudo",
