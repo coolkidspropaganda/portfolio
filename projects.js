@@ -23,9 +23,9 @@ window.SITE = {
    - images    : liste des visuels de la page projet
    ============================================================ */
 window.PROJECTS = [
-  { slug: "projet-01", title: "projet 01", category: "photographie", year: 2026, cover: "", ratio: "4/5",
-    description: "Courte description du projet : contexte, rôle, collaborateurs.",
-    images: [ { src: "", ratio: "3/2" }, { src: "", ratio: "4/5" }, { src: "", ratio: "3/2" } ] },
+  { slug: "pantheism", title: "projet 01", category: "photographie", year: 2026, cover: "", ratio: "4/5",
+    description: "Août 2026Courte description du projet : contexte, rôle, collaborateurs.",
+    images: [ { src: "coolkidspropaganda/portfolio/images/Novice (01)/Panthism/Adobe Scan 16 Aug 2026_page-0001.jpg", ratio: "3/2" }, { src: "", ratio: "4/5" }, { src: "", ratio: "3/2" } ] },
 
   { slug: "projet-02", title: "projet 02", category: "direction artistique", year: 2026, cover: "", ratio: "3/4",
     description: "Courte description du projet.",
